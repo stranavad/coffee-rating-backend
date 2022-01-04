@@ -6,9 +6,9 @@ const jsonParser = bodyParser.json();
 
 // Mysql connection
 const pool = mysql.createPool({
-	host: "139.162.161.156",
-	user: "root",
-	password: "<Code><Tech> 127521",
+	host: "thehostyoucannotsee,
+	user: "mysqluserthatyouaren't",
+	password: "password from Your email ;),
 	database: "coffee_rating",
 	connectionLimit: 5,
 });
